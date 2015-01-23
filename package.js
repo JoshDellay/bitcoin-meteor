@@ -1,5 +1,6 @@
 Package.describe({
     summary: "Interactions with the Bitcoin network"
+    version: "0.0.1"
 });
 
 Npm.depends({
